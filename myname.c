@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-static char *program_path = NULL;
+static char *program_path;
 static int i;
 
 int main(int argc, char **argv)
