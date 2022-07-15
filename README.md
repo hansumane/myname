@@ -1,4 +1,4 @@
-# C program which prints its name
+# C program that prints its name
 
 ## How to use
 
